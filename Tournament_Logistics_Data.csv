@@ -1,0 +1,51 @@
+Team_Name,Player_IGN,Role,Origin_City,Flight_No,Arrival_Time,Hotel_Name,Room_No,Room_Type,Check_In_Status,Visa_Status,Tech_Check_Status
+Team Soul,Goblin,Fragger,Mumbai,6E-554,10:30 AM,Radisson Blu,301,Twin Sharing,Checked In,Active,Pass
+Team Soul,Omega,IGL,Mumbai,6E-554,10:30 AM,Radisson Blu,301,Twin Sharing,Checked In,Active,Pass
+Team Soul,AkshaT,Assaulter,Mumbai,6E-554,10:30 AM,Radisson Blu,302,Twin Sharing,Checked In,Active,Pass
+Team Soul,Hector,Support,Mumbai,6E-554,10:30 AM,Radisson Blu,302,Twin Sharing,Checked In,Active,Pass
+Team Soul,Amit,Manager,Mumbai,6E-554,10:30 AM,Radisson Blu,303,Single,Checked In,Active,N/A
+GodLike,Jonathan,Fragger,Bangalore,AI-809,02:15 PM,Radisson Blu,401,Twin Sharing,Pending,Active,Pending
+GodLike,Zgod,Support,Bangalore,AI-809,02:15 PM,Radisson Blu,401,Twin Sharing,Pending,Active,Pending
+GodLike,Neyoo,Assaulter,Bangalore,AI-809,02:15 PM,Radisson Blu,402,Twin Sharing,Pending,Active,Pending
+GodLike,Shadow,IGL,Bangalore,AI-809,02:15 PM,Radisson Blu,402,Twin Sharing,Pending,Active,Pending
+GodLike,Kronten,Manager,Bangalore,AI-809,02:15 PM,Radisson Blu,403,Single,Pending,Active,N/A
+XSpark,Sc0ut,Sniper,Delhi,UK-992,09:00 AM,Novotel,501,Twin Sharing,Checked In,Active,Pass
+XSpark,Aditya,Fragger,Delhi,UK-992,09:00 AM,Novotel,501,Twin Sharing,Checked In,Active,Pass
+XSpark,Pukar,IGL,Delhi,UK-992,09:00 AM,Novotel,502,Twin Sharing,Checked In,Active,Pass
+XSpark,Sarang,Support,Delhi,UK-992,09:00 AM,Novotel,502,Twin Sharing,Checked In,Active,Pass
+XSpark,Thug,Manager,Delhi,UK-992,09:00 AM,Novotel,503,Single,Checked In,Active,N/A
+Global Esports,Mavi,IGL,Punjab,SG-112,04:45 PM,Radisson Blu,601,Twin Sharing,Delayed,Active,Pending
+Global Esports,Joker,Assaulter,Punjab,SG-112,04:45 PM,Radisson Blu,601,Twin Sharing,Delayed,Active,Pending
+Global Esports,Beast,Fragger,Punjab,SG-112,04:45 PM,Radisson Blu,602,Twin Sharing,Delayed,Active,Pending
+Global Esports,Dark,Support,Punjab,SG-112,04:45 PM,Radisson Blu,602,Twin Sharing,Delayed,Active,Pending
+Global Esports,Rushindra,Manager,Punjab,SG-112,04:45 PM,Radisson Blu,603,Single,Delayed,Active,N/A
+Enigma Gaming,Rexx,IGL,Hyderabad,6E-202,11:30 AM,Novotel,701,Twin Sharing,Checked In,Active,Pass
+Enigma Gaming,Evo,Sniper,Hyderabad,6E-202,11:30 AM,Novotel,701,Twin Sharing,Checked In,Active,Pass
+Enigma Gaming,Kill,Fragger,Hyderabad,6E-202,11:30 AM,Novotel,702,Twin Sharing,Checked In,Active,Pass
+Enigma Gaming,Rishi,Manager,Hyderabad,6E-202,11:30 AM,Novotel,703,Single,Checked In,Active,N/A
+Orangutan,Ash,IGL,Mumbai,6E-556,12:00 PM,Radisson Blu,304,Twin Sharing,Checked In,Expired,Fail
+Orangutan,Drigger,Fragger,Mumbai,6E-556,12:00 PM,Radisson Blu,304,Twin Sharing,Checked In,Active,Pass
+Orangutan,Believe,Support,Mumbai,6E-556,12:00 PM,Radisson Blu,305,Twin Sharing,Checked In,Active,Pass
+Orangutan,Wizz,Sniper,Mumbai,6E-556,12:00 PM,Radisson Blu,305,Twin Sharing,Checked In,Active,Pass
+Revenant,Sensei,IGL,Pune,Road,01:00 PM,Novotel,801,Twin Sharing,Checked In,Active,Pass
+Revenant,Fierce,Fragger,Pune,Road,01:00 PM,Novotel,801,Twin Sharing,Checked In,Active,Pass
+Revenant,Aquanox,Support,Pune,Road,01:00 PM,Novotel,802,Twin Sharing,Checked In,Active,Pass
+Revenant,MJ,Sniper,Pune,Road,01:00 PM,Novotel,802,Twin Sharing,Checked In,Active,Pass
+Blind Esports,Skipz,IGL,Kolkata,AI-774,05:00 PM,Radisson Blu,901,Twin Sharing,Pending,Active,Pending
+Blind Esports,Jazzy,Fragger,Kolkata,AI-774,05:00 PM,Radisson Blu,901,Twin Sharing,Pending,Active,Pending
+Blind Esports,Spower,Assaulter,Kolkata,AI-774,05:00 PM,Radisson Blu,902,Twin Sharing,Pending,Active,Pending
+Blind Esports,Darklord,Support,Kolkata,AI-774,05:00 PM,Radisson Blu,902,Twin Sharing,Pending,Active,Pending
+Medal Esports,Paradox,IGL,Jaipur,Road,03:30 PM,Novotel,201,Twin Sharing,Checked In,Active,Pass
+Medal Esports,TopDawg,Fragger,Jaipur,Road,03:30 PM,Novotel,201,Twin Sharing,Checked In,Active,Pass
+Medal Esports,Kyoyaa,Support,Jaipur,Road,03:30 PM,Novotel,202,Twin Sharing,Checked In,Active,Pass
+Hydra,Dynamo,Sniper,Mumbai,6E-559,02:00 PM,Radisson Blu,101,Twin Sharing,Checked In,Active,Pass
+Hydra,Alpha,IGL,Mumbai,6E-559,02:00 PM,Radisson Blu,101,Twin Sharing,Checked In,Active,Pass
+Hydra,BTS,Manager,Mumbai,6E-559,02:00 PM,Radisson Blu,102,Single,Checked In,Active,N/A
+8Bit,Goldy,Manager,Delhi,UK-995,06:00 PM,Radisson Blu,110,Single,Pending,Active,N/A
+8Bit,Maddog,Fragger,Delhi,UK-995,06:00 PM,Radisson Blu,111,Twin Sharing,Pending,Active,Pending
+8Bit,Beast,Support,Delhi,UK-995,06:00 PM,Radisson Blu,111,Twin Sharing,Pending,Active,Pending
+Entity,Saumraj,IGL,Pune,Road,11:00 AM,Novotel,121,Twin Sharing,Checked In,Active,Pass
+Entity,Gamlaboy,Fragger,Pune,Road,11:00 AM,Novotel,121,Twin Sharing,Checked In,Active,Pass
+Entity,Troye,Support,Pune,Road,11:00 AM,Novotel,122,Twin Sharing,Checked In,Active,Fail
+Numen,Avi,IGL,Bangalore,AI-810,02:30 PM,Radisson Blu,131,Twin Sharing,Cancelled,Active,Pending
+Numen,Gill,Sniper,Bangalore,AI-810,02:30 PM,Radisson Blu,131,Twin Sharing,Cancelled,Active,Pending
