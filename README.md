@@ -17,3 +17,19 @@ Designed an operational runbook for a Tier-1 LAN Tournament (e.g., BGMI/Valorant
 
 ## 🚀 Business Relevance
 Demonstrates the ability to handle high-pressure event logistics, applicable to roles in **Esports Operations, Event Management, and Supply Chain**.
+
+## 📅 Event Timeline (Logistics Plan)
+```mermaid
+gantt
+    title Tournament Day 1 Operations
+    dateFormat  HH:mm
+    axisFormat %H:%M
+    section Arrivals
+    Team Soul Arrival       :done,    10:00, 11:00
+    Enigma Gaming Arrival   :active,  11:30, 12:30
+    section Hotel Ops
+    Check-in & Rooming      :         11:00, 13:00
+    Lunch Buffer            :         13:00, 14:00
+    section Tech Checks
+    Network Setup           :crit,    09:00, 12:00
+    Player PC Setup         :         14:00, 16:00
